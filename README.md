@@ -1,16 +1,28 @@
-### Hi there 👋
+<br />
+<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
 
-<!--
-**tajdingurdal/tajdingurdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'am Tajdin 👋
 
-Here are some ideas to get you started:
+- I'm a junior self-taughted Java Backend web developer from Turkey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am interested in the Java programming language, I am learning and applying it. I also learn and apply new technologies. These are Hibernate, Spring Boot, Spring Framework, PostgreSQL, MySQL, Git.. this list goes on and on.
+
+<hr>
+<br />
+
+<br />
+
+
+  
+  <h3 align="right">Connect with me:</h3>
+<p align="right">
+ <a href="https://discord.gg/uxRA3SUQ">
+    <img src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" width="40" height="40" alt="Merch Store">
+  </a>
+  <a href="https://www.hackerrank.com/tajdingurdal">
+    <img src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png" width="40" height="40" alt="Twitch.tv">
+  </a>
+  <a href="https://www.linkedin.com/in/tajdin-gurdal//">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="YouTube">
+  </a>
+</p>
