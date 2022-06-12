@@ -1,5 +1,5 @@
 <br />
-<img src="https://github.com/ful1e5/ful1e5/blob/main/assets/lines.svg" align="left" width="300" alt="ful1e5"/>
+<img src="https://github.com/tajdingurdal/tajdingurdal/blob/main/lines.svg" align="left" width="300" alt="ful1e5"/>
 
 # Hi, I'am Tajdin 👋
 
