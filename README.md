@@ -26,6 +26,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="YouTube">
   </a>
    <a href="https://medium.com/@tajdingurdal">
-    <img src="https://github.com/tajdingurdal/tajdingurdal/blob/main/medium.png" width="40" height="40" alt="YouTube">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScyYN8UaKthlZId4nWRCo411-FFBOMA1bmN9s5qRIB6ieg1vxr9Xd0fKpQ7bmob9neZ94&usqp=CAU" width="40" height="40" alt="YouTube">
   </a>
 </p>
