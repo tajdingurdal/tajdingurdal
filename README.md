@@ -12,8 +12,21 @@
 
 <br />
 
+<div>
 
+<h3 align="left">Latest blog posts:</h3>
+<p align="left">
   
+  <a href="https://medium.com/@tajdingurdal/interface-nedir-c7e59d28450a">
+   Interface Nedir ?
+  </a>
+  <br />
+  <a href="https://medium.com/@tajdingurdal/decomposition-8ae4de3d20c6">
+    Decomposition Nedir ?
+  </a>
+  
+</p>
+
   <h3 align="right">Connect with me:</h3>
 <p align="right">
  <a href="https://discord.gg/uxRA3SUQ">
@@ -29,3 +42,5 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScyYN8UaKthlZId4nWRCo411-FFBOMA1bmN9s5qRIB6ieg1vxr9Xd0fKpQ7bmob9neZ94&usqp=CAU" width="40" height="40" alt="YouTube">
   </a>
 </p>
+  
+</div>
