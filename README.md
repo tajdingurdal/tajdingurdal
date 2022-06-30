@@ -16,7 +16,9 @@
 
 <h3 align="left">Latest blog posts:</h3>
 <p align="left">
-  
+   <a href="https://medium.com/@tajdingurdal/jdk-jre-ve-jvm-3e304eab9359">
+   JDK JRE ve JVM
+  </a>
   <a href="https://medium.com/@tajdingurdal/interface-nedir-c7e59d28450a">
    Interface Nedir ?
   </a>
@@ -24,6 +26,7 @@
   <a href="https://medium.com/@tajdingurdal/decomposition-8ae4de3d20c6">
     Decomposition Nedir ?
   </a>
+  
   
 </p>
 
