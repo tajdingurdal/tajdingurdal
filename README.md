@@ -17,6 +17,10 @@
 <h3 align="left">Latest blog posts:</h3>
 <p align="left">
 
+ <a href="https://medium.com/@tajdingurdal/liskov-subsitute-principle-lsp-31be62eb35dc">
+   Liskov Subsitute Principle (LSP) •
+  </a>
+  
  <a href="https://medium.com/@tajdingurdal/instanceof-nedir-e5d01ec38ed4">
    instanceof Nedir? •
   </a>
