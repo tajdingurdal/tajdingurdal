@@ -23,7 +23,7 @@
    <a href="https://medium.com/@tajdingurdal/jdk-jre-ve-jvm-3e304eab9359">
    JDK JRE ve JVM
   </a>
-     <br />
+ <p> • </p>
   <a href="https://medium.com/@tajdingurdal/interface-nedir-c7e59d28450a">
    Interface Nedir ?
   </a>
