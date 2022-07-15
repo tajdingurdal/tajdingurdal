@@ -15,7 +15,11 @@
 <div>
 
 <h3 align="left">Latest blog posts:</h3>
-<p align="left">
+<p align="center">
+
+ <a href="https://medium.com/@tajdingurdal/polymorphism-51ab840e62f">
+   PolyMorphism(Çok Biçimlilik)
+  </a>
    <a href="https://medium.com/@tajdingurdal/jdk-jre-ve-jvm-3e304eab9359">
    JDK JRE ve JVM
   </a>
