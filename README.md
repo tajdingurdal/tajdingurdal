@@ -15,27 +15,22 @@
 <div>
 
 <h3 align="left">Latest blog posts:</h3>
-<p align="center" style = "display: flex">
+<p align="left">
 
  <a href="https://medium.com/@tajdingurdal/polymorphism-51ab840e62f">
-   PolyMorphism(Çok Biçimlilik)
+   PolyMorphism(Çok Biçimlilik) •
   </a>
-  <p> • </p>
  
    <a href="https://medium.com/@tajdingurdal/jdk-jre-ve-jvm-3e304eab9359">
-   JDK JRE ve JVM
+   JDK JRE ve JVM •
   </a>
- 
- <p> • </p>
  
   <a href="https://medium.com/@tajdingurdal/interface-nedir-c7e59d28450a">
-   Interface Nedir ?
+   Interface Nedir ? •
   </a>
  
-  <p> • </p>
- 
   <a href="https://medium.com/@tajdingurdal/decomposition-8ae4de3d20c6">
-    Decomposition Nedir ?
+    Decomposition Nedir ? •
   </a>
   
   
