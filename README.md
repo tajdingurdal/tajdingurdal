@@ -17,6 +17,14 @@
 <h3 align="left">Latest blog posts:</h3>
 <p align="left">
 
+<a href="https://medium.com/@tajdingurdal/scrum-nedir-810f719c05be">
+   Scrum Nedir •
+  </a>
+
+<a href="https://medium.com/@tajdingurdal/%C3%A7evik-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-manifestosu-3bcdc7775d9b">
+   Çevik Yazılım Geliştirme Manifestosu •
+  </a>
+
  <a href="https://medium.com/@tajdingurdal/liskov-subsitute-principle-lsp-31be62eb35dc">
    Liskov Subsitute Principle (LSP) •
   </a>
