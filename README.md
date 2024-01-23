@@ -3,7 +3,7 @@
 
 # Hi, I'am Tajdin 👋
 
-- I'm a junior self-taughted Java Backend web developer from Turkey.
+- I'm a self-taughted Java Backend web developer from Turkey.
 
 - I am interested in the Java programming language, I am learning and applying it. I also learn and apply new technologies. These are Hibernate, Spring Boot, Spring Framework, PostgreSQL, MySQL, Git.. this list goes on and on.
 
