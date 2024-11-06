@@ -2,10 +2,6 @@
 # Hi, I'am Tajdin 👋
 - I'm a self-taughted Java developer from Turkey.
 <hr>
-<br />
-
-<br />
-
 <div>
 
 <h3 align="left">Latest blog posts:</h3>
