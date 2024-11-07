@@ -1,7 +1,8 @@
 <br />
-# Hi, I'am Tajdin 👋
-- I'm a self-taughted Java developer from Turkey.
-<hr>
+Hi, I'am Tajdin 👋
+<p>
+I'm a self-taughted Java developer from Turkey.
+
 <div>
 
 <h3 align="left">Latest blog posts:</h3>
